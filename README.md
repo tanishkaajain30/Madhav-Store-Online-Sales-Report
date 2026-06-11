@@ -23,7 +23,7 @@ Developed an interactive Power BI dashboard to analyze online sales performance 
 - State-wise sales visualization
 
 ## Dashboard Preview
-![Dashboard](dashboard(2).png)
+![Dashboard](dashboard.png)
 
 
 ## Author
