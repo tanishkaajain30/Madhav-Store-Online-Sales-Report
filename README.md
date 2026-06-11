@@ -23,7 +23,8 @@ Developed an interactive Power BI dashboard to analyze online sales performance 
 - State-wise sales visualization
 
 ## Dashboard Preview
-dashboard (2).png
+![Dashboard](dashboard(2).png)
+
 
 ## Author
 Tanishka Jain
